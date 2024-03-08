@@ -19,6 +19,5 @@ https://jaiaditya.netlify.app/ - My Portfolio
 
 ## Get in Touch
 - LinkedIn: linkedin.com/in/jai-aditya-singh-900a012b6/
-- Twitter: 
 - Email: jaiaditya005@gmail.com
 
